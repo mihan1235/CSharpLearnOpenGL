@@ -1,0 +1,15 @@
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\RenderExt\bin\Debug\render-ext.dll
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\RenderExt\bin\Debug\render-ext.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\RenderExt\bin\Debug\FreeImage-dotnet-core.dll
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\RenderExt\bin\Debug\GlmSharp.dll
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\RenderExt\bin\Debug\SharpGL.dll
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\RenderExt\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\RenderExt\bin\Debug\GlmSharp.xml
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\RenderExt\bin\Debug\SharpGL.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\RenderExt\bin\Debug\SharpGL.xml
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\RenderExt\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\RenderExt\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\RenderExt\obj\Debug\RenderExt.csprojResolveAssemblyReference.cache
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\RenderExt\obj\Debug\RenderExt.csproj.CoreCompileInputs.cache
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\RenderExt\obj\Debug\render-ext.dll
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\RenderExt\obj\Debug\render-ext.pdb

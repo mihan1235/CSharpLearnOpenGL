@@ -1,0 +1,6 @@
+c:\users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\glfw3-net.dll
+c:\users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\glfw3-net.pdb
+c:\users\mihan\source\repos\CSharpLearnOpenGL\Glfw_Generated\obj\Release\Glfw_Generated.csproj.CoreCompileInputs.cache
+c:\users\mihan\source\repos\CSharpLearnOpenGL\Glfw_Generated\obj\Release\glfw3-net.dll
+c:\users\mihan\source\repos\CSharpLearnOpenGL\Glfw_Generated\obj\Release\glfw3-net.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\Glfw_Generated\obj\Release\Glfw_Generated.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\Transformations.exe.config
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\Transformations.exe
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\Transformations.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\Transformations\obj\Release\Transformations.csprojResolveAssemblyReference.cache
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\Transformations\obj\Release\Transformations.csproj.CoreCompileInputs.cache
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\Transformations\obj\Release\Transformations.exe
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\Transformations\obj\Release\Transformations.pdb

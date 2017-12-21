@@ -1,0 +1,8 @@
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\ShadersUniform.exe.config
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\ShadersUniform.exe
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\ShadersUniform.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\ShadersUniform\obj\Release\ShadersUniform.csproj.CoreCompileInputs.cache
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\ShadersUniform\obj\Release\ShadersUniform.exe
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\ShadersUniform\obj\Release\ShadersUniform.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\ShadersUniform.exe.CodeAnalysisLog.xml
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\ShadersUniform.exe.lastcodeanalysissucceeded

@@ -1,0 +1,1 @@
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\Glfw_Generated\obj\Debug\Glfw_Generated.csproj.CoreCompileInputs.cache

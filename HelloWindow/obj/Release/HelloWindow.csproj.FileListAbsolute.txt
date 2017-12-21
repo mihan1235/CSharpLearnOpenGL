@@ -1,0 +1,12 @@
+c:\users\mihan\source\repos\CSharpLearnOpenGL\HelloWindow\bin\Release\HelloWindow.exe.config
+c:\users\mihan\source\repos\CSharpLearnOpenGL\HelloWindow\bin\Release\HelloWindow.exe
+c:\users\mihan\source\repos\CSharpLearnOpenGL\HelloWindow\bin\Release\HelloWindow.pdb
+c:\users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\HelloWindow.exe.config
+c:\users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\HelloWindow.exe
+c:\users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\HelloWindow.pdb
+c:\users\mihan\source\repos\CSharpLearnOpenGL\HelloWindow\obj\Release\HelloWindow.csprojResolveAssemblyReference.cache
+c:\users\mihan\source\repos\CSharpLearnOpenGL\HelloWindow\obj\Release\HelloWindow.csproj.CoreCompileInputs.cache
+c:\users\mihan\source\repos\CSharpLearnOpenGL\HelloWindow\obj\Release\HelloWindow.exe
+c:\users\mihan\source\repos\CSharpLearnOpenGL\HelloWindow\obj\Release\HelloWindow.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\HelloWindow.exe.CodeAnalysisLog.xml
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\HelloWindow.exe.lastcodeanalysissucceeded

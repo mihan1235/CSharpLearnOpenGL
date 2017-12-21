@@ -1,0 +1,10 @@
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\bin\_build\Release\Textures.exe.config
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\bin\_build\Release\Textures.exe
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\bin\_build\Release\Textures.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\Textures\obj\Release\Textures.csprojResolveAssemblyReference.cache
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\Textures\obj\Release\Textures.csproj.CoreCompileInputs.cache
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\Textures\obj\Release\Textures.exe
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\Textures\obj\Release\Textures.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\Textures.exe.config
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\Textures.exe
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\Textures.pdb

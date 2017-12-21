@@ -1,0 +1,7 @@
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\CoordinateSystemsDepth.exe.config
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\CoordinateSystemsDepth.exe
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\CoordinateSystemsDepth.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\CoordinateSystemsDepth\obj\Release\CoordinateSystemsDepth.csprojResolveAssemblyReference.cache
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\CoordinateSystemsDepth\obj\Release\CoordinateSystemsDepth.csproj.CoreCompileInputs.cache
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\CoordinateSystemsDepth\obj\Release\CoordinateSystemsDepth.exe
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\CoordinateSystemsDepth\obj\Release\CoordinateSystemsDepth.pdb

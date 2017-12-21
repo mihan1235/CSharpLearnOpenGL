@@ -1,0 +1,7 @@
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\CameraClass.exe.config
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\CameraClass.exe
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\CameraClass.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\CameraClass\obj\Release\CameraClass.csproj.CoreCompileInputs.cache
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\CameraClass\obj\Release\CameraClass.exe
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\CameraClass\obj\Release\CameraClass.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\CameraClass\obj\Release\CameraClass.csprojResolveAssemblyReference.cache

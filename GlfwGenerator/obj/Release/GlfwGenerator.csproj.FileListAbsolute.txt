@@ -1,0 +1,15 @@
+c:\users\mihan\source\repos\CSharpLearnOpenGL\GlfwGenerator\bin\Release\GlfwGenerator.exe.config
+c:\users\mihan\source\repos\CSharpLearnOpenGL\GlfwGenerator\bin\Release\GlfwGenerator.exe
+c:\users\mihan\source\repos\CSharpLearnOpenGL\GlfwGenerator\bin\Release\GlfwGenerator.pdb
+c:\users\mihan\source\repos\CSharpLearnOpenGL\GlfwGenerator\bin\Release\CppSharp.AST.dll
+c:\users\mihan\source\repos\CSharpLearnOpenGL\GlfwGenerator\bin\Release\CppSharp.dll
+c:\users\mihan\source\repos\CSharpLearnOpenGL\GlfwGenerator\bin\Release\CppSharp.Generator.dll
+c:\users\mihan\source\repos\CSharpLearnOpenGL\GlfwGenerator\bin\Release\CppSharp.Parser.CLI.dll
+c:\users\mihan\source\repos\CSharpLearnOpenGL\GlfwGenerator\bin\Release\CppSharp.Parser.dll
+c:\users\mihan\source\repos\CSharpLearnOpenGL\GlfwGenerator\bin\Release\CppSharp.Runtime.dll
+c:\users\mihan\source\repos\CSharpLearnOpenGL\GlfwGenerator\obj\Release\GlfwGenerator.csprojResolveAssemblyReference.cache
+c:\users\mihan\source\repos\CSharpLearnOpenGL\GlfwGenerator\obj\Release\GlfwGenerator.csproj.CoreCompileInputs.cache
+c:\users\mihan\source\repos\CSharpLearnOpenGL\GlfwGenerator\obj\Release\GlfwGenerator.exe
+c:\users\mihan\source\repos\CSharpLearnOpenGL\GlfwGenerator\obj\Release\GlfwGenerator.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\GlfwGenerator\bin\Release\GlfwGenerator.exe.CodeAnalysisLog.xml
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\GlfwGenerator\bin\Release\GlfwGenerator.exe.lastcodeanalysissucceeded

@@ -1,0 +1,2 @@
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\CameraClass\obj\Debug\CameraClass.csprojResolveAssemblyReference.cache
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\CameraClass\obj\Debug\CameraClass.csproj.CoreCompileInputs.cache

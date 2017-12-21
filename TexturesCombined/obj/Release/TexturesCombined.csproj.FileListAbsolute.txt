@@ -1,0 +1,7 @@
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\TexturesCombined.exe.config
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\TexturesCombined.exe
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\TexturesCombined.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\TexturesCombined\obj\Release\TexturesCombined.csprojResolveAssemblyReference.cache
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\TexturesCombined\obj\Release\TexturesCombined.csproj.CoreCompileInputs.cache
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\TexturesCombined\obj\Release\TexturesCombined.exe
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\TexturesCombined\obj\Release\TexturesCombined.pdb

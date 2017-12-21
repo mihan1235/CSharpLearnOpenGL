@@ -1,0 +1,7 @@
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\CoordinateSystems.exe.config
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\CoordinateSystems.exe
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\CoordinateSystems.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\CoordinateSystems\obj\Release\CoordinateSystems.csprojResolveAssemblyReference.cache
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\CoordinateSystems\obj\Release\CoordinateSystems.csproj.CoreCompileInputs.cache
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\CoordinateSystems\obj\Release\CoordinateSystems.exe
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\CoordinateSystems\obj\Release\CoordinateSystems.pdb

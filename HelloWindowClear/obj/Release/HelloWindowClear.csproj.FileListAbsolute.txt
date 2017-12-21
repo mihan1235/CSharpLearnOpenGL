@@ -1,0 +1,9 @@
+c:\users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\HelloWindowClear.exe.config
+c:\users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\HelloWindowClear.exe
+c:\users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\HelloWindowClear.pdb
+c:\users\mihan\source\repos\CSharpLearnOpenGL\HelloWindowClear\obj\Release\HelloWindowClear.csprojResolveAssemblyReference.cache
+c:\users\mihan\source\repos\CSharpLearnOpenGL\HelloWindowClear\obj\Release\HelloWindowClear.csproj.CoreCompileInputs.cache
+c:\users\mihan\source\repos\CSharpLearnOpenGL\HelloWindowClear\obj\Release\HelloWindowClear.exe
+c:\users\mihan\source\repos\CSharpLearnOpenGL\HelloWindowClear\obj\Release\HelloWindowClear.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\HelloWindowClear.exe.CodeAnalysisLog.xml
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\HelloWindowClear.exe.lastcodeanalysissucceeded

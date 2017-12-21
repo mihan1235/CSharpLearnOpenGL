@@ -1,0 +1,9 @@
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\HelloTriangle.exe.config
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\HelloTriangle.exe
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\HelloTriangle.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\HelloTriangle\obj\Release\HelloTriangle.csprojResolveAssemblyReference.cache
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\HelloTriangle\obj\Release\HelloTriangle.csproj.CoreCompileInputs.cache
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\HelloTriangle\obj\Release\HelloTriangle.exe
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\HelloTriangle\obj\Release\HelloTriangle.pdb
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\HelloTriangle.exe.CodeAnalysisLog.xml
+C:\Users\mihan\source\repos\CSharpLearnOpenGL\_build\bin\Release\HelloTriangle.exe.lastcodeanalysissucceeded
